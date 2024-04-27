@@ -1,4 +1,4 @@
-# Analyse des données agricoles : Cas des prix du Maïs au Bénin
+# Analyse des données agricoles : Cas des prix du Maïs au Bénin 🌽
 
 Malgré une production impressionnante de **2 059 254 tonnes** de maïs au Bénin en 2023, en hausse de **27,1%** par rapport aux **1 619 605 tonnes** produites en 2022, la population béninoise continue de se plaindre de la cherté de cette denrée. Essentielle à notre alimentation et à celle de notre bétail, cette céréal est fortement convoitée par nos voisins, notamment le Nigéria, ce qui impacte l'offre disponible sur le marché béninois. De plus, les producteurs animaux anticipent une probable hausse du prix du maïs due à l'interdiction des produits congelés au Bénin.
 
@@ -25,6 +25,10 @@ Les utilisateurs peuvent cloner ce projet à partir de GitHub et exécuter le no
 
 ## Où les utilisateurs peuvent obtenir de l’aide sur votre projet
 Si les utilisateurs ont des questions ou rencontrent des problèmes avec ce projet, ils peuvent ouvrir une issue sur GitHub. Ils peuvent aussi consulter la documentation de Python et des bibliothèques utilisées pour ce projet.
+
+## Me contacter 📩
+
+Vous pouvez m'envoyer un mail à aguidissougenseric@gmail.com
 
 ## Qui maintient et contribue au projet
 Ce projet est actuellement maintenu par moi. Les contributions sont les bienvenues. Si vous êtes intéressé à contribuer, veuillez ouvrir une issue ou soumettre une pull request.
