@@ -26,13 +26,13 @@ Les utilisateurs peuvent cloner ce projet à partir de GitHub et exécuter le no
 ## Où les utilisateurs peuvent obtenir de l’aide sur votre projet
 Si les utilisateurs ont des questions ou rencontrent des problèmes avec ce projet, ils peuvent ouvrir une issue sur GitHub. Ils peuvent aussi consulter la documentation de Python et des bibliothèques utilisées pour ce projet.
 
-## Me contacter 📩
-
-Vous pouvez m'envoyer un mail à aguidissougenseric@gmail.com
-
 ## Qui maintient et contribue au projet
 Ce projet est actuellement maintenu par moi. Les contributions sont les bienvenues. Si vous êtes intéressé à contribuer, veuillez ouvrir une issue ou soumettre une pull request.
 
 ## D'où provient la Data ?
-Les données ont été extraites de l'Outil de surveillance et d’analyse des prix alimentaires (FPMA) V4 de FAO. Les données provenant de cet outil sont sous Licence Creative Commons.
+Les données ont été extraites de l'Outil de surveillance et d’analyse des prix alimentaires (FPMA) V4 de FAO (https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic). Les données provenant de cet outil sont sous Licence Creative Commons.
+
+## Me contacter 📩
+
+Vous pouvez m'envoyer un mail à aguidissougenseric@gmail.com
 
